@@ -4,13 +4,12 @@ rps.py
 Redistributed and modified with permission from the
 EECS Department at The University of Michigan, Ann Arbor
 
-Name: TO FILL IN (your name)
+Name: Alkera Rudolph
 
 CS 104: Project 2
 FALL 2026
 
-Description: TO FILL IN (one or two sentences about what this program does)
-"""
+Description: This program allows two players to play Rock, Paper, Scissors in three rounds. It determines the winner of each round and announces the overall game winner.
 
 # ***********************************************************************
 # Constants. Global constants are fine. Global variables are not.
